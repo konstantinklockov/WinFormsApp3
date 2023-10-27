@@ -19,7 +19,7 @@ namespace WinFormsApp3
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Form2.ActiveForm.BackColor = Color.Blue;
+            Form2.ActiveForm.BackColor = Color.Aqua;
         }
     }
 }
