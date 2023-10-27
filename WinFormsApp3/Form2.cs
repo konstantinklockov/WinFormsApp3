@@ -16,5 +16,10 @@ namespace WinFormsApp3
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Form2.ActiveForm.BackColor = Color.Blue;
+        }
     }
 }
